@@ -1,0 +1,19 @@
+GITTYPE BACKGROUND AUTOMATION TEST
+
+This file is being created through the VS Code Extension API.
+
+The Python application is communicating with the extension.
+
+No physical keyboard simulation is being used.
+
+No mouse movement is required.
+
+Indentation test:
+
+    First level
+        Second level
+            Third level
+
+Background automation is working!
+
+END OF TEST.

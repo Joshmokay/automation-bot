@@ -1,0 +1,11 @@
+/* GitType Stylesheet */
+body {
+  font-family: sans-serif;
+  background: #1e1e1e;
+  color: #d4d4d4;
+  margin: 0;
+  padding: 20px;
+}
+h1 {
+  color: #4ec9b0;
+}

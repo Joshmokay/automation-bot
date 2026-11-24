@@ -1,0 +1,59 @@
+{
+    "name": "gittype-background",
+    "displayName": "GitType Background Engine",
+    "description": "Background repository typing and automation for GitType",
+    "version": "1.0.0",
+    "publisher": "gittype",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "main": "./extension.js",
+    "activationEvents": [
+        "onStartupFinished"
+    ],
+    "contributes": {
+        "commands": [
+            {
+                "command": "gittype.start",
+                "title": "GitType: Start Background Engine"
+            },
+            {
+                "command": "gittype.stop",
+                "title": "GitType: Stop Background Engine"
+            },
+            {
+                "command": "gittype.pause",
+                "title": "GitType: Pause Background Engine"
+            },
+            {
+                "command": "gittype.resume",
+                "title": "GitType: Resume Background Engine"
+            },
+            {
+                "command": "gittype.status",
+                "title": "GitType: Check Engine Status"
+            }
+        ],
+        "configuration": {
+            "title": "GitType Background Engine",
+            "properties": {
+                "gittype.bridgePort": {
+                    "type": "integer",
+                    "default": 54321,
+                    "description": "Preferred local port for GitType background bridge HTTP server (falls back to dynamic selection if busy)."
+                },
+                "gittype.autoStart": {
+                    "type": "boolean",
+                    "default": true,
+                    "description": "Automatically start the GitType background bridge when VS Code launches."
+                }
+            }
+        }
+    },
+    "devDependencies": {
+        "@vscode/vsce": "^4.1.1"
+    }
+}

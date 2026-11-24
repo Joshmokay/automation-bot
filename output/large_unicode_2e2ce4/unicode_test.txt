@@ -1,0 +1,70 @@
+English: Hello GitType!
+Greek: Γειά σου κόσμε!
+Japanese: こんにちは世界！
+Emojis: 🚀 ✨ 💻 ⚡ 🛡️
+Indented code:
+    for x in range(10):
+        print(x)
+English: Hello GitType!
+Greek: Γειά σου κόσμε!
+Japanese: こんにちは世界！
+Emojis: 🚀 ✨ 💻 ⚡ 🛡️
+Indented code:
+    for x in range(10):
+        print(x)
+English: Hello GitType!
+Greek: Γειά σου κόσμε!
+Japanese: こんにちは世界！
+Emojis: 🚀 ✨ 💻 ⚡ 🛡️
+Indented code:
+    for x in range(10):
+        print(x)
+English: Hello GitType!
+Greek: Γειά σου κόσμε!
+Japanese: こんにちは世界！
+Emojis: 🚀 ✨ 💻 ⚡ 🛡️
+Indented code:
+    for x in range(10):
+        print(x)
+English: Hello GitType!
+Greek: Γειά σου κόσμε!
+Japanese: こんにちは世界！
+Emojis: 🚀 ✨ 💻 ⚡ 🛡️
+Indented code:
+    for x in range(10):
+        print(x)
+English: Hello GitType!
+Greek: Γειά σου κόσμε!
+Japanese: こんにちは世界！
+Emojis: 🚀 ✨ 💻 ⚡ 🛡️
+Indented code:
+    for x in range(10):
+        print(x)
+English: Hello GitType!
+Greek: Γειά σου κόσμε!
+Japanese: こんにちは世界！
+Emojis: 🚀 ✨ 💻 ⚡ 🛡️
+Indented code:
+    for x in range(10):
+        print(x)
+English: Hello GitType!
+Greek: Γειά σου κόσμε!
+Japanese: こんにちは世界！
+Emojis: 🚀 ✨ 💻 ⚡ 🛡️
+Indented code:
+    for x in range(10):
+        print(x)
+English: Hello GitType!
+Greek: Γειά σου κόσμε!
+Japanese: こんにちは世界！
+Emojis: 🚀 ✨ 💻 ⚡ 🛡️
+Indented code:
+    for x in range(10):
+        print(x)
+English: Hello GitType!
+Greek: Γειά σου κόσμε!
+Japanese: こんにちは世界！
+Emojis: 🚀 ✨ 💻 ⚡ 🛡️
+Indented code:
+    for x in range(10):
+        print(x)
